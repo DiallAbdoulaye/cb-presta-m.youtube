@@ -10,7 +10,7 @@ import VideoScreen from './screens/video';
     return (
 
       <View style={styles.container}>
-       
+
       </View>
     );
   }
